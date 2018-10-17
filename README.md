@@ -1,0 +1,2 @@
+# RioSeoSlimApi
+RioSeo Coding assessment
